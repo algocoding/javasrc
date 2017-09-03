@@ -1,5 +1,5 @@
 package Day01;
-public class BinarySearachDemo {
+public class BinarySearchDemo {
 
 	static int Search(int[] arr, int key, int lo, int hi)
 	{
